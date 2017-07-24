@@ -1,3 +1,10 @@
-
+machine:
+  node:
+    version: 8.1.4
+deployment:
+  staging:
+    branch: master
+    heroku:
+      appname: blooming-waters-39679
 
 
