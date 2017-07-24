@@ -1,1 +1,1 @@
-[![CircleCI](https://circleci.com/gh/DDCreationStudios/crudrr.svg?style=svg)](https://circleci.com/gh/DDCreationStudios/crudrr)
+[![TravisCI](https://travis-ci.org/DDCreationStudios/crudrr.svg?branch=master)](https://circleci.com/gh/DDCreationStudios/crudrr) ![Heroku](http://heroku-badge.herokuapp.com/?app=crudrr&style=flat&svg=1)
