@@ -1,1 +1,1 @@
-[![TravisCI](https://travis-ci.org/DDCreationStudios/crudrr.svg?branch=master)](https://circleci.com/gh/DDCreationStudios/crudrr) ![Heroku](http://heroku-badge.herokuapp.com/?app=crudrr&style=flat&svg=1)
+[![Build Status](https://travis-ci.org/DDCreationStudios/crudrr.svg?branch=master)](https://travis-ci.org/DDCreationStudios/crudrr) [![Heroku](http://heroku-badge.herokuapp.com/?app=crudrr&style=flat&svg=1)](https://crudrr.herokuapp.com/)
