@@ -10,7 +10,7 @@ script:
 deploy:
   provider: heroku
   buildpack: https://github.com/mars/create-react-app-buildpack.git
-  api_key: process.env.HEROKU_API_KEY
+  api_key: 34b23e71-bf67-47ef-80b7-0fa40c73c384
   app: crudrr
 notifications:
   email: false
