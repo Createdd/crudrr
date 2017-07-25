@@ -10,3 +10,6 @@ script:
 deploy:
   provider: heroku
   api_key: process.env.HEROKUAPI
+  app: crudrr
+notifications:
+  email: false
