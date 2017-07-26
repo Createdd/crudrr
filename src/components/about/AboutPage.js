@@ -11,7 +11,7 @@ class AboutPage extends Component {
 					React'n'Redux :)
 				</p>
 				<p>We should now easily be able to search for repos on Github.</p>
-				<img className="responsive-img" src="../../create.jpeg" alt="picture"/>
+				<img className="responsive-img" src="../../create.jpeg" alt="create"/>
 			</div>
 		);
 	}

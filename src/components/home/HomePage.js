@@ -1,12 +1,12 @@
 import React, { Component } from 'react';
-import PropTypes from 'prop-types';
-import { bindActionCreators } from 'redux';
+// import PropTypes from 'prop-types';
+// import { bindActionCreators } from 'redux';
 import { connect } from 'react-redux';
 
 class HomePage extends Component {
-	constructor(props) {
-		super(props);
-	}
+	// constructor(props) {
+	// 	super(props);
+	// }
 
 	render() {
 		return <div className="container">Should work</div>;
